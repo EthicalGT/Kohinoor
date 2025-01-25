@@ -1,0 +1,95 @@
+        <div class="Clothes">
+            <h1>Products</h1>
+            <p>----Jwellery----</p>
+            <div class="clothes_box">
+                <div class="clothes_card">
+                    <img src="img/img1.png">
+                    <h1>Clothes</h1>
+                    <p>
+                        Contrary to popular belief, Lorem Ipsum is not simply random text. 
+                        It has roots in a piece of classical Latin literature from 45 BC, 
+                        making it over 2000 years old.
+                    </p>
+                    <a href="#" class="btn">Read More</a>
+                </div>
+                <div class="clothes_card">
+                    <img src="img/img2.png">
+                    <h1>Clothes</h1>
+                    <p>
+                        Contrary to popular belief, Lorem Ipsum is not simply random text. 
+                        It has roots in a piece of classical Latin literature from 45 BC, 
+                        making it over 2000 years old.
+                    </p>
+                    <a href="#" class="btn">Read More</a>
+                </div>
+                <div class="clothes_card">
+                    <img src="img/img3.png">
+                    <h1>Clothes</h1>
+                    <p>
+                        Contrary to popular belief, Lorem Ipsum is not simply random text. 
+                        It has roots in a piece of classical Latin literature from 45 BC, 
+                        making it over 2000 years old.
+                    </p>
+                    <a href="#" class="btn">Read More</a>
+                </div>
+                <div class="clothes_card">
+                    <img src="img/img4.png">
+                    <h1>Clothes</h1>
+                    <p>
+                        Contrary to popular belief, Lorem Ipsum is not simply random text. 
+                        It has roots in a piece of classical Latin literature from 45 BC, 
+                        making it over 2000 years old.
+                    </p>
+                    <a href="#" class="btn">Read More</a>
+                </div>
+            </div>
+        </div>
+        <div class="Food">
+            <p>----Food----</p>
+            <div class="food_box">
+                <div class="food_card">
+                    <img src="image/Burger.png">
+                    <h1>Food</h1>
+                    <p>
+                        Contrary to popular belief, Lorem Ipsum is not simply random text. 
+                        It has roots in a piece of classical Latin literature from 45 BC, 
+                        making it over 2000 years old.
+                    </p>
+                    <a href="#" class="btn">Read More</a>
+                </div>
+
+                <div class="food_card">
+                    <img src="image/Hotdog.png">
+                    <h1>Food</h1>
+                    <p>
+                        Contrary to popular belief, Lorem Ipsum is not simply random text. 
+                        It has roots in a piece of classical Latin literature from 45 BC, 
+                        making it over 2000 years old.
+                    </p>
+                    <a href="#" class="btn">Read More</a>
+                </div>
+
+                <div class="food_card">
+                    <img src="image/pizza.png">
+                    <h1>Food</h1>
+                    <p>
+                        Contrary to popular belief, Lorem Ipsum is not simply random text. 
+                        It has roots in a piece of classical Latin literature from 45 BC, 
+                        making it over 2000 years old.
+                    </p>
+                    <a href="#" class="btn">Read More</a>
+                </div>
+
+                <div class="food_card">
+                    <img src="image/sandvich.png">
+                    <h1>Food</h1>
+                    <p>
+                        Contrary to popular belief, Lorem Ipsum is not simply random text. 
+                        It has roots in a piece of classical Latin literature from 45 BC, 
+                        making it over 2000 years old.
+                    </p>
+                    <a href="#" class="btn">Read More</a>
+                </div>
+            </div>
+        </div>
+    </div>

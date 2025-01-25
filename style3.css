@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-us{
+  height: 100vh;
+  width: 100%;
+  background: #ddd;
+}
+.about{
+  width: 1200x;
+  max-width: 85%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.text{
+  width: 800px;
+}
+.text h4{
+  font-size: 50px;
+  color:red;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+.text p{
+  padding: 10px;
+  width: 650px;
+  line-height: 1.5;
+  text-align: justify;
+  font-size: 18px;
+}
