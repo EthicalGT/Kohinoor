@@ -20,7 +20,7 @@ Kohinoor is a PHP-based web application designed for a seamless jewellery shoppi
   - Secure authentication and user session management.
   
 ## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (with Bootstrap for styling)
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
 
