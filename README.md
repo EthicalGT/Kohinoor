@@ -35,8 +35,6 @@ Kohinoor is a PHP-based web application designed for a seamless jewellery shoppi
   - Add, update, or remove jewellery products.
   - Manage orders and user feedback.
 
-## Screenshots
-*(Add relevant screenshots of the platform UI here)*
 
 ## Future Enhancements
 - Implement payment gateway integration.
